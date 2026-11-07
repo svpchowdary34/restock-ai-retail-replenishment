@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+restock_*.csv
+restock_*.html
+.env
